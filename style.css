@@ -3,7 +3,8 @@
 
 body {
   height: 0%;
-  background-color: #efeef6;
+  
+  background-color: #c2c0d1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,6 +21,7 @@ body {
 .card {
   box-shadow: none;
   margin: 0;
+  
 }
 
 h4 {
@@ -35,7 +37,7 @@ h4 {
 
 .card-image {
     background: url("https://i.imgur.com/EiO33Ac.png") no-repeat center center / cover;
-  height: 100px;
+  height: 300px;
   width: 100%;
 }
 
