@@ -1,14 +1,9 @@
 const cover = document.querySelector(".card-image");
-const title = document.querySelector(".card-content h5");
-const artist = document.querySelector(".artist");
+
 
 
 const data = {
-  title:
-    "A MELHOR WEB RÁDIO",
-  artist: "© Copyright E.M.G 2024",
-  cover: "https://i.imgur.com/HQXAjT2.jpeg",
-  file: ""
+  cover: "https://i.imgur.com/kSqwkDR.jpeg",
 };
 
 cover.style.background = `url('${data.cover}') no-repeat center center / cover`;
