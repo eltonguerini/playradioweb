@@ -6,7 +6,7 @@ const artist = document.querySelector(".artist");
 const data = {
   title:
     "A MELHOR WEB RÁDIO",
-  artist: "© Copyright 2018",
+  artist: "© Copyright E.M.G 2024",
   cover: "https://i.imgur.com/HQXAjT2.jpeg",
   file: ""
 };

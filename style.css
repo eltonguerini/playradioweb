@@ -36,8 +36,8 @@ h4 {
 
 .card-image {
   background: url("https://i.imgur.com/HQXAjT2.jpeg") ;
-  align-items: baseline;
-  height: 170px;
+  align-items: center;
+  height: 100px;
   width: 100%;
 }
 
